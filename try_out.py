@@ -1,2 +1,2 @@
-def malapractica()
-    hola = hola
+def malapractica():
+    hola = "hola"
