@@ -1,0 +1,2 @@
+def malapractica()
+    hola = hola
